@@ -1,0 +1,9 @@
+{"debug":"Calling MCP tool: approve_and_merge","timestamp":"2026-04-09T04:47:35.776Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Tool 'approve_and_merge' completed successfully in 293ms","timestamp":"2026-04-09T04:47:36.069Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Calling MCP tool: request_changes","timestamp":"2026-04-09T04:47:39.899Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Tool 'request_changes' still running (30s elapsed)","timestamp":"2026-04-09T04:48:09.902Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Tool 'request_changes' still running (60s elapsed)","timestamp":"2026-04-09T04:48:39.905Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Tool 'request_changes' still running (90s elapsed)","timestamp":"2026-04-09T04:49:09.911Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Tool 'request_changes' still running (120s elapsed)","timestamp":"2026-04-09T04:49:39.912Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Tool 'request_changes' still running (150s elapsed)","timestamp":"2026-04-09T04:50:09.913Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}
+{"debug":"Tool 'request_changes' still running (180s elapsed)","timestamp":"2026-04-09T04:50:39.915Z","sessionId":"07e6e360-4f48-4032-a747-7d450c4e87d3","cwd":"/tmp/bloom-task-303a033b-uc7v4zen"}

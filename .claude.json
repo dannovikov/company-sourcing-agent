@@ -1,0 +1,56 @@
+{
+  "cachedGrowthBookFeatures": {
+    "tengu_claudeai_mcp_connectors": true,
+    "tengu_kairos_cron": true,
+    "tengu_herring_clock": false,
+    "tengu_keybinding_customization_release": true,
+    "tengu_marble_whisper": true,
+    "tengu_amber_quartz": true,
+    "tengu_thinkback": false,
+    "tengu_cicada_nap_ms": 0,
+    "tengu_miraculo_the_bard": false,
+    "tengu_miraculo_the_bard2": false,
+    "tengu_paper_halyard": false,
+    "tengu_chomp_inflection": false,
+    "tengu_penguins_off": null,
+    "tengu_desktop_upsell": {
+      "enable_shortcut_tip": false,
+      "enable_startup_dialog": false
+    },
+    "enhanced_telemetry_beta": false,
+    "tengu_marble_lantern_disabled": false,
+    "tengu_pebble_leaf_prune": true,
+    "tengu_mcp_elicitation": true,
+    "tengu_swinburne_dune": true,
+    "tengu_coral_fern": false,
+    "tengu_basalt_3kr": true,
+    "tengu_summarize_tool_results": false,
+    "tengu_bergotte_lantern": false,
+    "tengu_sotto_voce": true,
+    "tengu_system_prompt_global_cache": false,
+    "tengu_turtle_carbon": true,
+    "tengu_glacier_2xr": true,
+    "tengu_streaming_tool_execution2": true,
+    "tengu_moth_copse": false,
+    "tengu_tool_search_unsupported_models": [
+      "haiku"
+    ],
+    "tengu_fgts": false,
+    "tengu_attribution_header": true,
+    "tengu_grey_step2": {
+      "enabled": true,
+      "dialogTitle": "We recommend medium effort for Opus",
+      "dialogDescription": "Effort determines how long Claude thinks for when completing your task. We recommend medium effort for most tasks to balance speed and intelligence and maximize rate limits. Use ultrathink to trigger high effort when needed."
+    },
+    "tengu_satin_quoll": {},
+    "tengu_tool_input_aliasing": false
+  },
+  "firstStartTime": "2026-04-09T04:47:02.496Z",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "userID": "08dd638b5635c91c032fb38b28f9086100bf28f2849695065857ba042636cd5c",
+  "clientDataCache": {
+    "data": null,
+    "timestamp": 1775710022560
+  }
+}
