@@ -1,0 +1,16 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v20.20.2
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/tmp/bloom-task-303a033b-uc7v4zen/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm root
+7 verbose argv "root" "--global"
+8 verbose logfile logs-max:10 dir:/tmp/bloom-task-303a033b-uc7v4zen/.npm/_logs/2026-04-09T04_47_02_701Z-
+9 verbose logfile /tmp/bloom-task-303a033b-uc7v4zen/.npm/_logs/2026-04-09T04_47_02_701Z-debug-0.log
+10 verbose cwd /tmp/bloom-task-303a033b-uc7v4zen
+11 verbose os Linux 6.12.47-fly
+12 verbose node v20.20.2
+13 verbose npm  v10.8.2
+14 verbose exit 0
+15 info ok
