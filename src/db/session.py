@@ -9,7 +9,7 @@ from src.models import Base
 # Default to SQLite in project root; override with DATABASE_URL env var
 # for Postgres or other backends.
 DEFAULT_DB_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "sourcing.db"
-DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{DEFAULT_DB_PATH}")
+DATABASE_URL = os.getenv("DATABASE_URL") or f"sqlite:///{DEFAULT_DB_PATH}"
 
 
 def get_engine(url: str | None = None):
